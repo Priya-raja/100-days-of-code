@@ -12,12 +12,10 @@
 ### Day 2: November 01, 2020 (Example 2)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Applied CSS box model on a new index.html page created.
+**Thoughts**: I learned how to use flex in display, center an element and give margin and padding.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
+**Link(s) to work**: 
 
 ### Day 1: June 27, Monday
 
