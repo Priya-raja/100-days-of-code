@@ -1,0 +1,31 @@
+body{
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+}
+
+.grid {
+
+    margin-top: 30px;
+    width: 288px;
+    height:288px;
+    border: 8px solid white;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.grid div{
+    
+    width: 30px;
+    height: 30px;
+    border:0.5px solid white;
+
+}
+
+.even {
+
+    background-color:#E1b894;
+}
+.odd {
+    background-color:#E9E287;
+}
