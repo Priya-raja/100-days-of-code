@@ -24,4 +24,9 @@
 **Thoughts**I spend lot of time to figure out how to use QuerySelectorAll in javascript. 
 
 **Link(s) to work**
-1. 
+
+### Day4 :November 04,Tuesday
+Progress: I made a scrabble board in javascript and Learned DOM Manipulation.
+
+### Day 5: November 05, Wednesday
+Progress : Learned about unshift,shift,push and pop in DOM and executed it with posting and emoji through input.
